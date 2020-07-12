@@ -1,2 +1,5 @@
 info:
   profile: dev
+
+self:
+  wargon: war
