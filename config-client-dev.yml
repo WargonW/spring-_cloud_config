@@ -1,5 +1,6 @@
 info:
   profile: dev
+  aaa: aaa
 
 self:
   wargon: war
